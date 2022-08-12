@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Projeto Mutum</title>
+		<link rel="stylesheet" href="./style/style.css">
+	</head>
+	<body>
+		<nav class="navbar">
+			<div class="name">Projeto Mutum</div>
+		</nav>
+		<hr>
+	</body>
+</html>
+
